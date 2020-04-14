@@ -1,4 +1,5 @@
-# simple-emergency-ventilator
+# Simple emergency Ventilator
+
 A Simple and 3D-printable Emergency Ventilator for COVID-19
 
 Videos on Youtube:
