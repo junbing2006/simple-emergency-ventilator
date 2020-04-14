@@ -1,4 +1,4 @@
-# Simple emergency Ventilator
+# Simple Emergency Ventilator
 
 A Simple and 3D-printable Emergency Ventilator for COVID-19.
 
@@ -6,6 +6,8 @@ A Simple and 3D-printable Emergency Ventilator for COVID-19.
 
 The only part needs to purchase specific for this ventilator is the DC gear motor. The BVM is always needed with or without this machine. The lab power supply is widely available and it can be borrowed from the school lab.
 
+## Block Diagram
+![MK2](images/simple_emergency_ventilator_block_diagram.PNG)
 
 ## Main Components
 
